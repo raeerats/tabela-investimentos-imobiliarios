@@ -10,4 +10,4 @@ My project for the Web Programming subject in the Computer Science course. The t
 
 API developed and implemented by my PW professor. The JSON and HTML & CSS files were also made available by my teacher. 
 
-Only the API query in JavaScript was implemented by me and my group, under supervision of the professor in the presentation of the project.
+Only the API query in JavaScript was implemented by me and my group, under supervision of my teacher in the presentation of the project.
