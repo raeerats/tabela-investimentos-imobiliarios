@@ -1,8 +1,6 @@
 let fii_user = [];
 let fii_table = [];
 
-
-
 async function carregarDadosUser(url){
     await fetch(url)
             .then(resp => resp.json())
