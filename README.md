@@ -9,6 +9,6 @@ API desenvolvida e implementada pelo meu professor da matéria de PW. Os arquivo
 -
 My project for the Web Programming subject in the Computer Science course. The table is basically an simulation of a fictional investor's portfolio in the stock market and his respective investments.
 
-API developed and implemented by my PW professor. The JSON and HTML & CSS files were also made available by my teacher. 
+API developed and implemented by my PW teacher. The JSON and HTML & CSS files were also made available by my teacher. 
 
 Only the API query in JavaScript was implemented by me and my group, under supervision of my teacher in the presentation of the project.
