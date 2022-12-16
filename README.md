@@ -1,4 +1,7 @@
 # Tabela-Fundos-Investimentos-Imobiliarios
+
+![exemplo tabela](exemplo.png)
+
 -
 Projeto da matéria de Programação Web no curso de Ciência da Computação no 2° Semestre. A tabela consiste em uma simulção da carteira de fundos de um investidor fictício da Bolsa de Valores e seus respectivos investimentos.
 
